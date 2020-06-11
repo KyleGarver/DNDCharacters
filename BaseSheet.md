@@ -23,6 +23,7 @@ Is your character Merciful? => yes
 # Description
 
 # Race
+Probably a human. Who saw that coming? Probably everyone. 
 
 # Class => Fighter: Arcane Archer
 - Fighting Style => Archery
