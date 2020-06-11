@@ -4,6 +4,8 @@
 Captain of the a [Avarosan](https://leagueoflegends.fandom.com/wiki/Avarosan) Scouts.  Their current assignment is to Guard the borders for Noxian warbands.  Following the steps of their father.
 - Awkwardly loyal to Ashe?
 - Might have a crush on Braum.
+Maybe a little bit of IceBorn. Not full blood. 
+
 
 # Questions for Alignment
 - Is you character a hero? => Has seen his fair share of battles.
